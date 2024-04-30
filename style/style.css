@@ -112,7 +112,7 @@ video.active {
 
 .progress__container {
   position: absolute;
-  bottom: clamp(40px, 8vw, 80px);
+  bottom: clamp(40px, 8vw, 90px);
   left: 20px;
   right: 20px;
   max-width: 100%;
